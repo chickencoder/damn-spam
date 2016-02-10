@@ -1,4 +1,4 @@
-<h1 align="center">:email: :angry:</h1>
+<span style="display: block;" align="center">:email: :angry:</span>
 <h1 align="center">Damn Spam</h1>
 
 > A curated list of spam email address
