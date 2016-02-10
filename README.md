@@ -1,3 +1,4 @@
+<h1 align="center">:email: :angry:</h1>
 <h1 align="center">Damn Spam</h1>
 
 > A curated list of spam email address
@@ -6,9 +7,7 @@
 - [Contribution guide](contributing.md)
 
 -
-
 We need to do something about spam. It's not good. Maybe this will help.
-
 -
 
 ## Categories
