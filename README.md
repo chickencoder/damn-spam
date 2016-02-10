@@ -24,18 +24,16 @@ We need to do something about spam. It's not good. Maybe this will help.
 -
 
 ### Just Annoying
-- [lillianclarkcoder@gmail.com](lillianclarkcoder@gmail.com)
-- [edna.kim023@gmail.com](edna.kim023@gmail.com)
-- [kellylee21it@gmail.com](kellylee21it@gmail.com)
-- [samibeckham132@gmail.com](samibeckham132@gmail.com)
-- [shiv.nandan12@outlook.com](shiv.nandan12@outlook.com)
-- [michaelswarn@gmail.com](michaelswarn@gmail.com)
-- [sara@eletechno.com](Sara@eletechno.com)
-
-<email@hello.com>
+- <lillianclarkcoder@gmail.com>
+- <edna.kim023@gmail.com>
+- <kellylee21it@gmail.com>
+- <samibeckham132@gmail.com>
+- <shiv.nandan12@outlook.com>
+- <michaelswarn@gmail.com>
+- <Sara@eletechno.com>
 
 ### Pornography
-- [soghaqeaemt@getlaidnow.space](soghaqeaemt@getlaidnow.space)
+- <soghaqeaemt@getlaidnow.space>
 
 ### Malicious
 *There's nothing here yet!*
