@@ -1,13 +1,18 @@
 <span style="display: block;" align="center">:email: :angry:</span>
 <h1 align="center">Damn Spam</h1>
 
+[![Gitter](https://badges.gitter.im/chickencoder/damn-spam.svg)](https://gitter.im/chickencoder/damn-spam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 > A curated list of spam email address
 
+- [Read about why this repository exists](why.md)
 - [What constitutes a spam email?](spam.md)
 - [Contribution guide](contributing.md)
 
 -
+
 We need to do something about spam. It's not good. Maybe this will help.
+
 -
 
 ## Categories
