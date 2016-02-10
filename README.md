@@ -1,4 +1,4 @@
-<span style="display: block;" align="center">:email: :angry:</span>
+<h3 style="display: block;" align="center">:email: :angry:</h3>
 <h1 align="center">Damn Spam</h1>
 
 [![Gitter](https://badges.gitter.im/chickencoder/damn-spam.svg)](https://gitter.im/chickencoder/damn-spam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
