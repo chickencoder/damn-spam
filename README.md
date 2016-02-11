@@ -1,7 +1,7 @@
 <h3 style="display: block;" align="center">:email: :angry:</h3>
 <h1 align="center">Damn Spam</h1>
 
-[![Gitter](https://badges.gitter.im/chickencoder/damn-spam.svg)](https://gitter.im/chickencoder/damn-spam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Join the chat at https://gitter.im/chickencoder/damn-spam](https://badges.gitter.im/chickencoder/damn-spam.svg)](https://gitter.im/chickencoder/damn-spam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > A curated list of spam email address
 
@@ -17,7 +17,6 @@ We need to do something about spam. It's not good. Maybe this will help.
 
 ## Categories
 
-[![Join the chat at https://gitter.im/chickencoder/damn-spam](https://badges.gitter.im/chickencoder/damn-spam.svg)](https://gitter.im/chickencoder/damn-spam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - [Just Annoying](#just-annoying)
 - [Pornography](#pornography)
 - [Malicious](#malicious)
